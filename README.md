@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatthewJones3
 - 👀 I’m interested in progressing in my work and leaning into full stack software engineering
-- 🌱 I’m currently learning Async Javascript
+- 🌱 I’m currently at the end of my full stack course, and have received my full stack cert.
 - 💞️ I’m looking to collaborate on anything that will help me sharpen my skills and move me in the right direction
 - 📫 How to reach me - Email: MattyJones1615@gmail.com
 - 😄 Pronouns: he/him
